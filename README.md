@@ -67,7 +67,7 @@ Currently focused on:
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=laismedeiros19&show_icons=true&theme=tokyonight" 
   />
-
+<p align="center">
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=laismedeiros19&layout=compact&theme=tokyonight" 
   />
